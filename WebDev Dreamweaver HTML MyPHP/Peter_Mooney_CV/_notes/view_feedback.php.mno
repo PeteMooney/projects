@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_view_feedback" value="name:ID;datatype:int,name:Name;datatype:string,name:Email;datatype:string,name:Subject;datatype:string,name:Message;datatype:blob,name:Date;datatype:timestamp" />
+	<infoitem key="UD_see_feedback" value="name:ID;datatype:int,name:Name;datatype:string,name:Email;datatype:string,name:Subject;datatype:string,name:Message;datatype:blob,name:Date;datatype:timestamp" />
+</info>

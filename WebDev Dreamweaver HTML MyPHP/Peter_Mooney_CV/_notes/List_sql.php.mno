@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_List_sql" value="name:ID;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Level;datatype:string,name:First;datatype:string,name:Last;datatype:string,name:email;datatype:string" />
+</info>
